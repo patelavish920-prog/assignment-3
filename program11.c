@@ -6,7 +6,7 @@ int main()
 
     for(i = 1; i <= 5; i++)
     {
-        printf("Your Name\n");
+        printf("Avish patel\n");
     }
 
     return 0;
